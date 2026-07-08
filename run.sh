@@ -1,4 +1,4 @@
 #!/bin/zsh
 pushd build
-./Kilo
+./Kilo "$@"
 popd
